@@ -42,10 +42,10 @@ For more complex challenges, when applicable, I'll also try to add:
 
 ## Categories
 
-- [Classic/Common Challenges](classic/README.md)
-- [Cracking the Coding Interview](cracking-coding-interview/README.md)
-- [Daily Coding Problems](daily-coding-problems/README.md)
-- [LeetCode](leetcode/README.md)
+- [01-Classic/Common Challenges](01-Classic/README.md)
+- [02-Cracking the Coding Interview](02-Cracking-coding/README.md)
+- [03-Daily Coding Problems](03-Daily-coding/README.md)
+- [04-LeetCode](04-Leetcode/README.md)
 
 
 [email]: https://mailhide.io/e/oJtDG
