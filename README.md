@@ -44,7 +44,7 @@ For more complex challenges, when applicable, I'll also try to add:
 - [LeetCode](leetcode/README.md)
 
 
-[email]: mailto:deborah.bpc@gmail.com
+[email]: https://mailhide.io/e/oJtDG
 [instagram1]: https://www.instagram.com/deborah_bpc/
 [instagram2]: https://www.instagram.com/ummundosemfim/
 [linkedin]: https://www.linkedin.com/in/deborahbeatriz/
