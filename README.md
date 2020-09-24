@@ -1,10 +1,10 @@
 <h3>:fire::fire::fire: This repo was inpired by a great developer and dear friend, <a href="https://github.com/edcolen"><strong>Ed Colen</strong><a>. Check out his <a href="https://github.com/edcolen/code-challenges">repo</a>:fire::fire::fire:</p>
 
-
+<hr>
 
 # Code Challenges (and interview questions)
 
-This repo was created as a device for me to keep track of code challenges I solved in different languages while studying.
+This repo was created so I could keep track of the challenges I've taken and solved while studying different tools and languages.
 It can also work as a piece of portfolio, so my code and logic can be seen for whoever might be interested.
 Last but not least, it can be a code challenge database for those willing to study as well.
 
