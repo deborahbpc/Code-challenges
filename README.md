@@ -42,8 +42,8 @@ For more complex challenges, when applicable, I'll also try to add:
 
 ## Categories
 
-- [01-Classic/Common Challenges](01-Classic/README.md)
-- [02-Cracking the Coding Interview](02-Cracking-coding/README.md)
+- [01-Classic/Common Challenges](01-Classics/README.md)
+- [02-Cracking the Coding Interview](02-Cracking-code/README.md)
 - [03-Daily Coding Problems](03-Daily-coding/README.md)
 - [04-LeetCode](04-LeetCode/README.md)
 - [05-HackerRank](05-HackerRank/README.md)
