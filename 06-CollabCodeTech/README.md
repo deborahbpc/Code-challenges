@@ -1,5 +1,5 @@
 # CollabCode
 
-Here are some random challenges I got from [CollabCodeTech repo](https://github.com/CollabCodeTech/backend-challenges).
+Here are some random challenges I got from [CollabCodeTech GitHub](https://github.com/CollabCodeTech).
 
 <hr>

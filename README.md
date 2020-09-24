@@ -46,7 +46,8 @@ For more complex challenges, when applicable, I'll also try to add:
 - [02-Cracking the Coding Interview](02-Cracking-coding/README.md)
 - [03-Daily Coding Problems](03-Daily-coding/README.md)
 - [04-LeetCode](04-Leetcode/README.md)
-- [05-HackerRank](04-HackerRank/README.md)
+- [05-HackerRank](05-HackerRank/README.md)
+- [06-CollabCodeTech](06-CollabCodeTech/README.md)
 
 
 [email]: https://mailhide.io/e/oJtDG
