@@ -1,3 +1,7 @@
+<h3>:fire::fire::fire: This repo was inpired by a great developer and dear friend, <a href="https://github.com/edcolen"><strong>Ed Colen</strong><a>. Check out his <a href="https://github.com/edcolen/code-challenges">repo</a>:fire::fire::fire:</p>
+
+
+
 # Code Challenges (and interview questions)
 
 This repo was created as a device for me to keep track of code challenges I solved in different languages while studying.
