@@ -5,7 +5,7 @@
 # Code Challenges (and interview questions)
 
 This repo was created so I could keep track of the challenges I've taken and solved while studying different tools and languages.
-It can also work as a piece of portfolio, so my code and logic can be seen for whoever might be interested.
+It can also work as a piece of portfolio, so my code and logic can be seen by anyone who might be interested.
 Last but not least, it can be a code challenge database for those willing to study as well.
 
 ## Structure
@@ -46,6 +46,7 @@ For more complex challenges, when applicable, I'll also try to add:
 - [02-Cracking the Coding Interview](02-Cracking-coding/README.md)
 - [03-Daily Coding Problems](03-Daily-coding/README.md)
 - [04-LeetCode](04-Leetcode/README.md)
+- [05-HackerRank](04-HackerRank/README.md)
 
 
 [email]: https://mailhide.io/e/oJtDG
